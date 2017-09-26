@@ -141,9 +141,12 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
+62ca1a9f44cb3310abbaaaa974c0aa7f Assembly-CSharp.dll:.BGScroll
 85ae836fe3814eb4d4896d863841de8c Assembly-CSharp.dll:.Done_PlayerController
-5f78166a75d374e90d3c869a8a061500 Assembly-CSharp.dll:.GameController
+26a04f62d3b7711476f9249cdaef7893 Assembly-CSharp.dll:.GameController
 4c4e5bbdfb8b8f4d80c5ad7176b30d43 Assembly-CSharp.dll:.Done_RandomRotator
 e6620c373ab7ec2b45024da89745a65e Assembly-CSharp.dll:.Done_BGScroller
 16eb4163a2f2f6ad746ffaeccc8e318d Assembly-CSharp.dll:.PlayerController
 c2c6d44f6a4f84129ec64efdd0df28ea Assembly-CSharp.dll:.Done_GameController
+0396cd9639e9e35f83a03f877c6dea5c Assembly-CSharp.dll:.WeaponController
+0d46987a385ad60994d59d02fd545fe4 Assembly-CSharp.dll:.EvasiveManeuver
